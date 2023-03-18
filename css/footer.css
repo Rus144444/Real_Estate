@@ -1,0 +1,34 @@
+/* footer */
+
+
+.footer{
+    padding-top: 60px;
+    padding-bottom: 130px;
+}
+
+.footer__container{
+    display: flex;
+    align-items: center;
+}
+
+.menu-footer__list{
+    display: flex;
+    gap: 45px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.menu-footer__link{
+    color: #31353B;
+}
+
+.menu-footer__link:hover{
+    text-decoration: underline;
+}
+
+
+.footer__logo{
+    flex: 1 1 auto;
+}
